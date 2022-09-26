@@ -75,7 +75,7 @@ Here are the key takeaways for each NYC CitiBike bikeshare analysis visualizatio
 
 <br>
 For further analysis, I would suggest exploring the CitiBike bikeshare data by implementing the following visualtions.
-
+<br>
 <br>
 
 __Addtional Visualizations:__
