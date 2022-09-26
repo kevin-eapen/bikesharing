@@ -80,6 +80,5 @@ For further analysis, I would suggest exploring the CitiBike bikeshare data by i
 Addtional Visualizations:
 
 <br>
-
 - Create a map visualization overlaying start and end station latitude and longitude pairs, marked by color, over a map with markers for key categorical places of interest in the city. We could use the insights from this visualization to determine the most optimal station locations when planning the bikeshare program in Des Moines.
 - Create an additional map visualization plotting the start and end station latitude and longitude pairs, marked by color, filtered by gender. We can utilize this visualization as an analytical resource to study the relationship of station locations to the number of trips taken by each gender. This may allow us to better understand how Females and "unknown" genders interact with bikesharing, and we could possibly plan a more equitable bikeshare program in Des Moines across all genders.
